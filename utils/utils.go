@@ -1,4 +1,4 @@
-package utils1
+package utils
 
 func MadeUtils() string {
 	return "utils"
