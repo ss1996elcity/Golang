@@ -1,6 +1,7 @@
 package main
 
-import "git_project/utils"
+//import "git_project/utils"
+import "github.com/ss1996elcity/Golang/utils"
 import "git_project/wordz"
 import "git_project/color"
 import "fmt"
