@@ -1,3 +1,3 @@
-module git_project
+module github.com/ss1996elcity/Golang
 
 go 1.17
