@@ -7,9 +7,9 @@ import "fmt"
 
 func main() {
 
-a := utils.MadeUtils()
-b := wordz.GetWords()
-c := color.GetColor()
+a_ := utils.MadeUtils()
+b_ := wordz.GetWords()
+c_ := color.GetColor()
 fmt.Printf("MakeUtils = %v, GetWords = %v, GetColor = %v\n", a, b, c)
 
 }
